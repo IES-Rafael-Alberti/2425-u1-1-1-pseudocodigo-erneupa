@@ -1,0 +1,10 @@
+La tabla del número X desde el 1 hasta el 10
+
+Inicio
+Escribir refleja el número de alguna tabla.
+Leer X
+Escribir refleja haasta que número deseas ver la tabla.
+Leer i
+Para J<-1 Hasta i Con paso 1 Hacer mult<-X*J
+Escribir "Multiplicación", X, "por", J, "igual", mult
+Fin

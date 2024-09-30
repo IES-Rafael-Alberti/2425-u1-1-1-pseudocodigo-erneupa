@@ -1,0 +1,12 @@
+Número primo
+
+Inicio
+Escribe refleja un carácter
+Leer X
+Y=1
+Mientras (Y+1)<X
+Si X % (Y+1)=0
+Escribir EL caracter es primo
+Si No
+Escribir El carácter no es primo
+Fin
