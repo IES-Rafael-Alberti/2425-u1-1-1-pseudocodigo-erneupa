@@ -1,0 +1,10 @@
+Número primo
+
+Inicio
+Escribe refleja un carácter
+Leer X
+Si X MOD 2=0 entonces
+Escribir X, 'es par'
+Si no
+Escribir X, 'es impar'
+Fin
